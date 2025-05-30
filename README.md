@@ -4,6 +4,14 @@ This project analyzes customer churn using visualization and predictive modeling
 
 ---
 
+## 📁 Dataset
+
+The analysis is based on the **`customer_churn.csv`** dataset.  
+It contains customer demographic information, account details, services subscribed, and churn status.
+
+This dataset is located in the root directory of the repository.
+
+
 ## 📊 Data Visualization
 
 ### 1. Internet Service Distribution
