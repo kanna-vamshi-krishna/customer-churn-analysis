@@ -48,19 +48,8 @@ This project analyzes customer churn using visualization and predictive modeling
 
 **Model Evaluation:**
 - ✅ **Accuracy Score**: `79.76%`
-- 📊 **Confusion Matrix**:
-
-
-
-
-Confusion Matrix (Simple Model):
-[[1797    0]
- [ 669    0]]
-Accuracy Score (Simple Model): 0.7287104622871047
-Confusion Matrix (Multiple Model):
-[[944  92]
- [193 180]]
-Accuracy Score (Multiple Model): 0.7977288857345636
+- 📊 **Confusion Matrix**:`[[1797    0]
+                            [ 669    0]]`
 
 
 
@@ -73,7 +62,9 @@ Accuracy Score (Multiple Model): 0.7977288857345636
 
 **Model Evaluation:**
 - ✅ **Accuracy Score**: `79.85%`
-- 📊 **Confusion Matrix**:
+- 📊 **Confusion Matrix**:`[[944  92]
+                            [193 180]]`
+
 
 
 ---
@@ -86,7 +77,8 @@ Accuracy Score (Multiple Model): 0.7977288857345636
 
 **Model Evaluation:**
 - ✅ **Accuracy Score**: `73.19%`
-- 📊 **Confusion Matrix**:
+- 📊 **Confusion Matrix**:`[[951  85]
+                            [257 116]]`
 
 
 
@@ -100,7 +92,8 @@ Accuracy Score (Multiple Model): 0.7977288857345636
 
 **Model Evaluation:**
 - ✅ **Accuracy Score**: `79.63%`
-- 📊 **Confusion Matrix**:
+- 📊 **Confusion Matrix**:`[[1341  198]
+                            [ 308  266]]`
 
 
 
