@@ -9,7 +9,7 @@ This project analyzes customer churn using visualization and predictive modeling
 ### 1. Internet Service Distribution
 - Bar plot of `InternetService` categories.
 
-![Internet Service Distribution](images/internet_service_barplot.png)
+![Internet Service Distribution](images/Internet Service Distribution.png)
 
 ### 2. Tenure Distribution
 - Histogram showing distribution of `tenure`.
