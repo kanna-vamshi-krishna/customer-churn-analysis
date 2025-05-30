@@ -15,17 +15,17 @@ This project analyzes customer churn using visualization and predictive modeling
 ### 2. Tenure Distribution
 - Histogram showing distribution of `tenure`.
 
-![Tenure Histogram](images/tenure_histogram.png)
+![Tenure Histogram](images/Tenure%20Histogram.png)
 
 ### 3. Monthly Charges vs Tenure
 - Scatter plot showing relationship between `MonthlyCharges` and `tenure`.
 
-![Monthly Charges vs Tenure](images/monthlycharges_tenure_scatter.png)
+![Monthly Charges vs Tenure](images/Monthly%20Charges%20vs%20Tenure.png)
 
 ### 4. Box Plot: Tenure by Contract Type
 - Shows variation of `tenure` across different `Contract` types.
 
-![Tenure Boxplot by Contract](images/tenure_contract_boxplot.png)
+![Tenure Boxplot by Contract](images/Tenure%20Boxplot%20by%20Contract.png)
 
 ---
 
